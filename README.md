@@ -60,5 +60,5 @@ Note that this format does not support running or editing code.
 
 ### Contacts
 
-Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
+Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)  
 Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  

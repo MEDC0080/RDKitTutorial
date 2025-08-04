@@ -24,18 +24,19 @@ The aim of this session is to provide you with the foundational building blocks 
 
 ### Instructions for Google Colab (preferred environment):
 
-You must be logged in with a Google account to continue. If you do not have one, you will need to create// sign up. This will allow you to run the notebooks in your browser without installing anything on your own device. 
+You must be logged in with a Google account to continue. If you do not have one, you will need to create one. This will allow you to run the notebooks directly in your browser without installing anything on your own device.
 
 Click the links below to open the corresponding notebooks and start coding directly in Colab:
 
-| Notebook | Colab Link |
+| Notebook | Colab link |
 |----------|------------|
-| Introduction to Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/01_python_introduction.ipynb) |
-| Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/02_rdkit_introduction.ipynb) |
-| Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/03_rdkit_substructure.ipynb) |
-| Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/04_rdkit_similarity.ipynb) | |
+| Introduction to Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/01_python_introduction.ipynb) |
+| Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/02_rdkit_introduction.ipynb) |
+| Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/03_rdkit_substructure.ipynb) |
+| Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/04_rdkit_similarity.ipynb) |
 
 ---
+
 
 ### Setup instructions if you wish to install Anaconda in your own computer
 

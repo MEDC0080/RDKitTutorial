@@ -1,10 +1,10 @@
+## 29/1: Introduction to Python and RDKit - Florion Peni, Mateusz Kaczynski
+
 <p align="center">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/python-3-logo-svg-vector.svg" alt="Python logo" width="203" height="59">
   &nbsp;&nbsp;&nbsp;
   <img src="https://avatars.githubusercontent.com/u/2018047?s=280&v=4" alt="RDKit logo" width="100" height="100">
 </p>
-
-## MEDC0080 – RDKit tutorial
 
 **10am–12pm at TBD**
 
@@ -27,7 +27,9 @@ The aim of this session is to provide you with the foundational building blocks 
 We recommend using **Google Colab**, which allows you to run the tutorial notebooks directly in your browser without installing anything.  
 You must be logged into a Google account. If you do not have one, you will need to create one.
 
-The same tutorial folder provided on Moodle is also hosted publicly on GitHub and accessible via the links below:
+The same tutorial folder provided on Moodle is also hosted publicly here.
+
+The notebooks are accessible via the links below:
 
 | Notebook | Colab link |
 |----------|------------|

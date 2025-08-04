@@ -22,11 +22,12 @@ The aim of this session is to provide you with the foundational building blocks 
 
 ---
 
-### Instructions for Google Colab (preferred environment):
+### Instructions for Google Colab (preferred environment)
 
-You must be logged in with a Google account to continue. If you do not have one, you will need to create one. This will allow you to run the notebooks directly in your browser without installing anything on your own device.
+We recommend using **Google Colab**, which allows you to run the tutorial notebooks directly in your browser without installing anything.  
+You must be logged into a Google account. If you do not have one, you will need to create one.
 
-Click the links below to open the corresponding notebooks and start coding directly in Colab:
+The same tutorial folder provided on Moodle is also hosted publicly on GitHub and accessible via the links below:
 
 | Notebook | Colab link |
 |----------|------------|
@@ -37,27 +38,27 @@ Click the links below to open the corresponding notebooks and start coding direc
 
 ---
 
+### Local setup with Anaconda (optional)
 
-### Setup instructions if you wish to install Anaconda in your own computer
+If you prefer to run the tutorial locally using the Anaconda distribution, this option is also available.
 
-After downloading the `RDKitTutorial` folder from Moodle (click the **"Download folder"** button), it may appear with a date appended to its name, such as `RDKitTutorial-yyyymmdd`.  
-**Please rename the folder to `RDKitTutorial`** (no spaces) to ensure consistency with the instructions.
+After downloading the `RDKitTutorial` folder from Moodle, it may appear with a date appended to its name (e.g. `RDKitTutorial-yyyymmdd`).  
+Please rename the folder to `RDKitTutorial` (no spaces) to ensure consistency with the instructions.
 
-Inside it, you will find two sets of setup instructions:
+Inside the folder, you will find two setup guides:
 
-- **Local installation:**  
-  Refer to the `instructions_installation.txt` file. It provides OS-specific steps to install the Anaconda distribution and configure the required `conda` environment.
+- `instructions_installation.txt`  
+  For step-by-step instructions to install Anaconda and configure the required `conda` environment on your own computer.
 
-- **Using Desktop@UCL Anywhere:**  
-  If you're accessing UCL's virtual desktop service, follow the steps in `instructions_ucl.txt` instead.
+- `instructions_ucl.txt`  
+  For using the UCL Desktop Anywhere virtual desktop environment.
 
-You can also preview the tutorial content in static form via the HTML files located in the `html/` subdirectory.  
-*Note: These HTML notebooks are read-only and do not support code execution.*
-
+You can also preview the notebooks as static HTML files inside the `html/` subdirectory.  
+Note that this format does not support running or editing code.
 
 ---
 
 ### Contacts
 
-- Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
 - Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
+- Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  

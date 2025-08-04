@@ -22,38 +22,36 @@ The aim of this session is to provide you with the foundational building blocks 
 
 ---
 
-### Instructions for Google Colab (preferred environment)
+### Instructions for Google Colab (preferred setup)
 
-We recommend using **Google Colab**, which allows you to run the tutorial notebooks directly in your browser without installing anything.  
-You must be logged into a Google account. If you do not have one, you will need to create one.
+We recommend using **Google Colab**, which allows you to run the tutorial notebooks directly in your browser without installing anything. You must be logged into a Google account. If you do not have one, you will need to create one.
 
 The same tutorial folder provided on Moodle is also hosted publicly here.
 
-The notebooks are accessible via the links below:
+The notebooks are accessible via the links below.
 
 | Notebook | Colab link |
 |----------|------------|
-| Introduction to Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/01_python_introduction.ipynb) |
-| Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/02_rdkit_introduction.ipynb) |
-| Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/03_rdkit_substructure.ipynb) |
-| Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/04_rdkit_similarity.ipynb) |
+| 01. Introduction to Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/01_python_introduction.ipynb) |
+| 02. Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/02_rdkit_introduction.ipynb) |
+| 03. Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/03_rdkit_substructure.ipynb) |
+| 04. Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/04_rdkit_similarity.ipynb) |
 
 ---
 
-### Local setup with Anaconda (optional)
+### Local setup with Anaconda (deprecated)
 
 If you prefer to run the tutorial locally using the Anaconda distribution, this option is also available.
 
-After downloading the `RDKitTutorial` folder from Moodle, it may appear with a date appended to its name (e.g. `RDKitTutorial-yyyymmdd`).  
-Please rename the folder to `RDKitTutorial` (no spaces) to ensure consistency with the instructions.
+After downloading the `RDKitTutorial` folder from Moodle, it may appear with a date appended to its name (e.g. `RDKitTutorial-yyyymmdd`). Please rename the folder to `RDKitTutorial` (no spaces) to ensure consistency with the instructions.
 
 Inside the folder, you will find two setup guides:
 
-- `instructions_installation.txt`  
-  For step-by-step instructions to install Anaconda and configure the required `conda` environment on your own computer.
+- `instructions_installation.txt` contains step-by-step instructions to install Anaconda and configure the required `conda` environment on your own computer,
 
-- `instructions_ucl.txt`  
-  For using the UCL Desktop Anywhere virtual desktop environment.
+- and `instructions_ucl.txt` which contains instructions for using the Desktop@UCL Anywhere virtual desktop environment.
+
+---
 
 You can also preview the notebooks as static HTML files inside the `html/` subdirectory.  
 Note that this format does not support running or editing code.
@@ -62,5 +60,5 @@ Note that this format does not support running or editing code.
 
 ### Contacts
 
-- Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
-- Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
+Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)
+Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  

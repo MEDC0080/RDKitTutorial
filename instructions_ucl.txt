@@ -1,0 +1,51 @@
+###########################################
+#### DESKTOP@UCL ANYWHERE INSTRUCTIONS ####
+###########################################
+
+1) Download the "RDKitTutorial" folder from Moodle. Extract it and move it to the Desktop.
+   Rename it to "RDKitTutorial" (no spaces) if downloaded by a different name.
+
+2) From the UCL Application Store, search for and open the application “Anaconda for Windows 
+   2024.02.1 (Python)”.
+
+3) From the "Home" tab, launch the "Powershell Prompt" application.
+
+4) Change to the N-drive by entering the following on the command line:
+      
+       N:
+
+5) Navigate to the "RDKitTutorial" folder by entering:
+
+       cd DesktopSettings\Desktop\RDKitTutorial
+
+6) Tell conda you want to work from the N-drive by entering:
+   
+       SET CONDA_ENVS_PATH=N:\DEVELOPMENT
+
+7) Now execute the installation script by entering:
+
+       python install\install.py
+
+   This process takes at least 1 hour. Ensure your device stays connected throughout.
+
+8) Enter the following command:
+
+       conda activate rdkit_tutorial
+
+9) Launch the tutorial content by entering:
+
+       jupyter lab
+
+10) Jupyter Lab should open up in the default web browser. You should now be able to access all 
+    of the tutorial material by navigating to the tutorial folder (Desktop\RDKitTutorial).
+
+    If the software does not open automatically look for the following lines on the prompt:
+
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] Jupyter Server x.xx.x is running at:
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] http://localhost:yyyy/lab?token=zzzz...
+
+    These lines on your system will be slightly different. Copy and paste the 
+    "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Chrome) and 
+    press Enter (↵).
+
+11) Double click on '01_python_intro.ipynb' to open the introductory notebook.

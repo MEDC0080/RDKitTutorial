@@ -1,0 +1,93 @@
+###################################
+#### INSTALLATION INSTRUCTIONS ####
+###################################
+
+1) Install Anaconda for your operating system from the link below (choose Graphical Installer):
+
+       https://www.anaconda.com/download/success
+
+   Anaconda is a free and open-source distribution of the Python and R programming languages for 
+   scientific computing (data science, machine learning applications, large-scale data 
+   processing, predictive analytics, etc.), that aims to simplify package management and 
+   deployment.
+
+2) Follow the installation instructions:
+
+       https://docs.anaconda.com/anaconda/install/
+
+3) Download the "RDKitTutorial" folder from Moodle. Extract/unzip it (if necessary) and move it 
+   to your Desktop. Rename it to "RDKitTutorial" (no spaces) if downloaded by a different name.
+
+For the next steps follow the instructions based on your operating system.
+
+#################
+#### WINDOWS ####
+#################
+
+5) From the "Home" tab of "Anaconda Navigator", launch the "anaconda_prompt" application.
+
+6) Navigate to the "RDKitTutorial" folder on your Desktop by entering:
+
+       cd Desktop\RDKitTutorial
+
+7) Now execute the installation script by entering:
+
+       python install\install.py
+
+8) Enter the following command:
+
+       conda activate rdkit_tutorial
+
+9) Launch the tutorial content by entering:
+
+       jupyter lab
+
+10) Jupyter Lab should open up in your default web browser. You should now be able to access all 
+    of the tutorial material by navigating to the tutorial folder (Desktop\RDKitTutorial).
+
+    If the software does not open automatically look for the following lines on the prompt:
+
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] Jupyter Server x.xx.x is running at:
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] http://localhost:yyyy/lab?token=zzzz...
+
+    These lines on your system will be slightly different. Copy and paste the 
+    "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Edge) and 
+    press Enter (↵).
+
+11) Double click on '01_python_intro.ipynb' to open the introductory notebook.
+
+###############
+#### MACOS ####
+###############
+
+5) Press the Command and Spacebar keys (⌘-Space). Type "Terminal" and press Enter (↵).
+
+6) Navigate to the "RDKitTutorial" folder on your Desktop by entering:
+
+       cd Desktop/RDKitTutorial
+
+7) Execute the installation script by entering:
+
+       python install/install.py
+
+8) Enter the following command:
+
+       conda activate rdkit_tutorial
+
+9) Launch the tutorial content by entering:
+
+       jupyter lab
+
+10) Jupyter Lab should open up in your default web browser. You should now be able to access all 
+    of the tutorial material by navigating to the tutorial folder (Desktop/RDKitTutorial).
+
+    If the software does not open automatically look for the following lines on "Terminal":
+
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] Jupyter Server x.xx.x is running at:
+        [I 2025-mm-dd tt:tt:tt.ttt ServerApp] http://localhost:yyyy/lab?token=zzzz...
+
+    These lines on your system will be slightly different. Copy and paste the 
+    "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Safari) and 
+    press Enter (↵).
+
+11) Double click on '01_python_intro.ipynb' to open the introductory notebook.

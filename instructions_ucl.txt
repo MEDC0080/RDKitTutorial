@@ -48,4 +48,4 @@
     "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Chrome) and 
     press Enter (↵).
 
-11) Double click on '01_python_intro.ipynb' to open the introductory notebook.
+11) Double click on 'notebooks\01_python_intro.ipynb' to open the introductory notebook.

@@ -54,7 +54,7 @@ For the next steps follow the instructions based on your operating system.
     "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Edge) and 
     press Enter (↵).
 
-11) Double click on '01_python_intro.ipynb' to open the introductory notebook.
+11) Double click on 'notebooks\01_python_intro.ipynb' to open the introductory notebook.
 
 ###############
 #### MACOS ####
@@ -90,4 +90,4 @@ For the next steps follow the instructions based on your operating system.
     "http://localhost:yyyy..." address on the address bar of a web browser (e.g. Safari) and 
     press Enter (↵).
 
-11) Double click on '01_python_intro.ipynb' to open the introductory notebook.
+11) Double click on 'notebooks/01_python_intro.ipynb' to open the introductory notebook.

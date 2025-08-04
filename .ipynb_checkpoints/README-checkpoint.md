@@ -30,10 +30,8 @@ Click the links below to open the corresponding notebooks and start coding direc
 
 | Notebook | Colab Link |
 |----------|------------|
-| Introduction to Python | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/01_python_introduction.ipynb) |
-| Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/02_rdkit_introduction.ipynb) |
-| Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/03_rdkit_substructure.ipynb) |
-| Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/04_rdkit_similarity.ipynb) | |
+| **Python introduction** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/tree/main/notebooks/01_intro_to_rdkit.ipynb) |
+| *(Add more as needed)* | |
 
 ---
 
@@ -56,7 +54,7 @@ You can also preview the tutorial content in static form via the HTML files loca
 
 ---
 
-### Contacts
+### 📬 Contacts
 
 - Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
 - Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)

@@ -9,6 +9,7 @@
 **10am–12pm at TBD**
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MEDC0080/RDKitTutorial/HEAD)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://github.com/MEDC0080/RDKitTutorial/blob/main/LICENSE)
 
 ---
@@ -39,6 +40,20 @@ The notebooks are accessible via the links below.
 | 02. Introduction to RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/02_rdkit_introduction.ipynb) |
 | 03. Substructure searching with RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/03_rdkit_substructure.ipynb) |
 | 04. Molecular similarity in RDKit | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MEDC0080/RDKitTutorial/blob/main/notebooks/04_rdkit_similarity.ipynb) |
+
+---
+
+### Binder
+
+If you prefer not to use Google Colab, you can also run the notebooks using **Binder**, a free cloud-based platform that launches a temporary Jupyter environment in your browser. Binder does not require installation, but it may take a minute or two to launch the environment the first time.
+
+To use Binder:
+
+1. Click the **Binder** badge below to launch the full tutorial repository in a Jupyter environment: <br> <a href="https://mybinder.org/v2/gh/MEDC0080/RDKitTutorial/HEAD" target="_blank"> <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"> </a>
+
+2. Once it opens, navigate to the `notebooks/` folder and open any of the `.ipynb` files to begin.
+
+Keep in mind that Binder sessions are temporary and any changes you make will be lost once the session ends. If you want to save your work, consider downloading the notebook to your machine or using Google Colab instead.
 
 ---
 

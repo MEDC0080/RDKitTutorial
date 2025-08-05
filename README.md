@@ -75,14 +75,11 @@ To view a copy of this license, visit: [http://creativecommons.org/licenses/by/4
 
 ### Acknowledgments
 
-This material was originally developed by Fredrik Svensson and Oliver Scott and has been revised and edited by Florion Peni. 
+This repository contains educational content originally developed by Fredrik Svensson and Oliver Scott as part of the MEDC0080 module. The materials have been revised, expanded, and updated by Florion Peni in 2025.
 
 The code and teaching content may contain adaptations from external examples and publicly available resources. Where possible, attributions have been included. If you believe your work has been reused and is not properly credited, please contact us so we can correct it.
 
 This tutorial makes use of the following open-source tools:
 
-- **Cheminformatics**  
-  [`rdkit`](https://www.rdkit.org)
-
-- **Data visualisation**  
-  [`matplotlib`](https://matplotlib.org)
+- [`rdkit`](https://www.rdkit.org)
+- [`matplotlib`](https://matplotlib.org)

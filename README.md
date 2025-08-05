@@ -49,7 +49,7 @@ If you prefer not to use Google Colab, you can also run the notebooks using **Bi
 
 To use Binder:
 
-1. Click the **Binder** badge below to launch the full tutorial repository in a Jupyter environment: <br> <a href="https://mybinder.org/v2/gh/MEDC0080/RDKitTutorial/HEAD" target="_blank"> <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"> </a>
+1. Click the badge below to launch the full tutorial repository in a Jupyter environment: <br> <a href="https://mybinder.org/v2/gh/MEDC0080/RDKitTutorial/HEAD" target="_blank"> <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"> </a>
 
 2. Once it opens, navigate to the `notebooks/` folder and open any of the `.ipynb` files to begin.
 

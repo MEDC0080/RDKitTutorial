@@ -61,7 +61,8 @@ Note that this format does not support running or editing code.
 ### Contacts
 
 Florion Peni — [f.peni@ucl.ac.uk](mailto:f.peni@ucl.ac.uk)  
-Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)
+Mateusz Kaczynski — [mateusz.kaczynski.21@ucl.ac.uk](mailto:mateusz.kaczynski.21@ucl.ac.uk)  
+*Module leader*; Prof Edith Chan — [edith.chan@ucl.ac.uk](mailto:edith.chan@ucl.ac.uk)
 
 ---
 
@@ -74,11 +75,9 @@ To view a copy of this license, visit: [http://creativecommons.org/licenses/by/4
 
 ### Acknowledgments
 
-This material was originally developed by Fredrik Svensson and Oliver Scott and has been revised and edited by Florion Peni.
+This material was originally developed by Fredrik Svensson and Oliver Scott and has been revised and edited by Florion Peni. 
 
 The code and teaching content may contain adaptations from external examples and publicly available resources. Where possible, attributions have been included. If you believe your work has been reused and is not properly credited, please contact us so we can correct it.
-
-#### External resources & Python packages
 
 This tutorial makes use of the following open-source tools:
 
@@ -87,4 +86,3 @@ This tutorial makes use of the following open-source tools:
 
 - **Data visualisation**  
   [`matplotlib`](https://matplotlib.org)
-

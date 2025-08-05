@@ -43,7 +43,7 @@ The notebooks are accessible via the links below.
 
 ---
 
-### Binder
+### Instructions for Binder
 
 If you prefer not to use Google Colab, you can also run the notebooks using **Binder**, a free cloud-based platform that launches a temporary Jupyter environment in your browser. Binder does not require installation, but it may take a minute or two to launch the environment the first time.
 
